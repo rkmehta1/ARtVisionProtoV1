@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/RajeevMehta/Desktop/metaioSDK/_Android/ARtVision/TemplateAREL/TemplateAREL/build/intermediates/exploded-aar/TemplateAREL/MetaioSDK/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="19e494c26c2b612d8ffba84a8358dfa665f00853">
+        <dex dex="/Users/RajeevMehta/Desktop/metaioSDK/_Android/ARtVision/TemplateAREL/TemplateAREL/build/intermediates/pre-dexed/debug/classes-58c7649eb4d52e749a4f36ab7c7cd854053bc0c7.jar" />
+    </item>
+    <item
+        jar="/Applications/adt-bundle-mac-x86_64/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/RajeevMehta/Desktop/metaioSDK/_Android/ARtVision/TemplateAREL/TemplateAREL/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-76266479226d9c7af74a7510b2b50699866aa66e.jar" />
+    </item>
+    <item
+        jar="/Users/RajeevMehta/Desktop/metaioSDK/_Android/ARtVision/TemplateAREL/TemplateAREL/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/RajeevMehta/Desktop/metaioSDK/_Android/ARtVision/TemplateAREL/TemplateAREL/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-b6ae31e3395dace5f0dfc124652b33b501fe8fe9.jar" />
+    </item>
+    <item
+        jar="/Users/RajeevMehta/Desktop/metaioSDK/_Android/ARtVision/TemplateAREL/TemplateAREL/build/intermediates/exploded-aar/TemplateAREL/MetaioSDK/unspecified/libs/metaiosdk.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1c8d9e3d40ae2b65f4ef4adf7ddc62e484388b37">
+        <dex dex="/Users/RajeevMehta/Desktop/metaioSDK/_Android/ARtVision/TemplateAREL/TemplateAREL/build/intermediates/pre-dexed/debug/metaiosdk-3eeb952e81a1ecd5b9fdaba164613ddfa25dd55d.jar" />
+    </item>
+    <item
+        jar="/Users/RajeevMehta/Desktop/metaioSDK/_Android/ARtVision/TemplateAREL/TemplateAREL/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/RajeevMehta/Desktop/metaioSDK/_Android/ARtVision/TemplateAREL/TemplateAREL/build/intermediates/pre-dexed/debug/classes-326a77b0efe46cdebd34c4e0328acd4b2146fef0.jar" />
+    </item>
+
+</items>

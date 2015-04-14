@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+    <size android:height="1dip" />
+    <solid android:color="@color/metaiocolor" />
+</shape><!-- From: file:/Users/RajeevMehta/Desktop/metaioSDK/_Android/ARtVision/metaioSDK/res/drawable/divider.xml --><!-- From: file:/Users/RajeevMehta/Desktop/metaioSDK/_Android/ARtVision/TemplateAREL/build/intermediates/exploded-aar/ARtVision/MetaioSDK/unspecified/res/drawable/divider.xml -->

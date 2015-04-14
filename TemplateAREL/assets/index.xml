@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results trackingurl="html/resources/TrackingConfig_c30060b42a27b700146cbe036b4fd2ec.zip">
+  <arel><![CDATA[html/index.html?542d45577c043fdf9b11e8bb63bc5556]]></arel>
+  <object id="image1">
+    <title><![CDATA[Water Pitcher 1 no frame crop]]></title>
+    <assets3d>
+      <model><![CDATA[html/resources/5a744ef985ae0b04e19ddb0893a2721c/5a744ef985ae0b04e19ddb0893a2721c.zip]]></model>
+      <transform>
+        <translation>
+          <x>-19.7378158569</x>
+          <y>43.8964920044</y>
+          <z>0.9515421987</z>
+        </translation>
+        <rotation type="eulerdeg">
+          <x>0.0</x>
+          <y>0.0</y>
+          <z>0.0</z>
+        </rotation>
+        <scale>
+          <x>0.4165395796</x>
+          <y>0.4165395796</y>
+          <z>0.4165395796</z>
+        </scale>
+      </transform>
+      <properties>
+        <coordinatesystemid>1</coordinatesystemid>
+      </properties>
+    </assets3d>
+    <viewparameters>
+      <visibility>
+        <liveview>false</liveview>
+      </visibility>
+    </viewparameters>
+  </object>
+  <object id="text3">
+    <title><![CDATA[Text]]></title>
+    <assets3d>
+      <model><![CDATA[html/resources//61bfccd68ca636d774b3a5c9f693e9a2.zip]]></model>
+      <transform>
+        <translation>
+          <x>-1.840259552</x>
+          <y>-314.6919250488</y>
+          <z>5.1288642883</z>
+        </translation>
+        <rotation type="eulerdeg">
+          <x>0.0</x>
+          <y>0.0</y>
+          <z>0.0</z>
+        </rotation>
+        <scale>
+          <x>1.772873044</x>
+          <y>1.772873044</y>
+          <z>1.772873044</z>
+        </scale>
+      </transform>
+      <properties>
+        <coordinatesystemid>2</coordinatesystemid>
+      </properties>
+    </assets3d>
+    <viewparameters>
+      <visibility>
+        <liveview>false</liveview>
+      </visibility>
+    </viewparameters>
+  </object>
+</results>

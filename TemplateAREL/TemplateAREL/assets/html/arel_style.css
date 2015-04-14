@@ -1,0 +1,20 @@
+*	
+{
+	-webkit-highlight:      none;
+	-webkit-touch-callout :   none;
+	-webkit-user-select:     none;
+}
+		
+body 
+{
+	margin: 0px;
+	padding: 0;
+	-webkit-text-size-adjust: 100%;
+	background-color:transparent;
+}
+			
+			
+#arelDebugConsole
+{
+	background-color:rgba(255,255,255,0.24);
+}

@@ -1,0 +1,6 @@
+/Users/RajeevMehta/Desktop/metaioSDK/_Android/ARtVision/TemplateAREL/TemplateAREL/build/intermediates/classes/debug
+/Users/RajeevMehta/Desktop/metaioSDK/_Android/ARtVision/TemplateAREL/TemplateAREL/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-76266479226d9c7af74a7510b2b50699866aa66e.jar
+/Users/RajeevMehta/Desktop/metaioSDK/_Android/ARtVision/TemplateAREL/TemplateAREL/build/intermediates/pre-dexed/debug/classes-58c7649eb4d52e749a4f36ab7c7cd854053bc0c7.jar
+/Users/RajeevMehta/Desktop/metaioSDK/_Android/ARtVision/TemplateAREL/TemplateAREL/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-b6ae31e3395dace5f0dfc124652b33b501fe8fe9.jar
+/Users/RajeevMehta/Desktop/metaioSDK/_Android/ARtVision/TemplateAREL/TemplateAREL/build/intermediates/pre-dexed/debug/metaiosdk-3eeb952e81a1ecd5b9fdaba164613ddfa25dd55d.jar
+/Users/RajeevMehta/Desktop/metaioSDK/_Android/ARtVision/TemplateAREL/TemplateAREL/build/intermediates/pre-dexed/debug/classes-326a77b0efe46cdebd34c4e0328acd4b2146fef0.jar

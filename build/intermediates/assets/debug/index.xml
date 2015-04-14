@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results trackingurl="html/resources/TrackingConfig_164dbc6802b7b9fc8be67296cafb847b.zip">
+  <arel><![CDATA[html/index.html?55957f9b564529c11f7d50906f680c42]]></arel>
+  <object id="image1">
+    <title><![CDATA[Water Pitcher 1 no frame crop]]></title>
+    <assets3d>
+      <model><![CDATA[html/resources/5a744ef985ae0b04e19ddb0893a2721c/5a744ef985ae0b04e19ddb0893a2721c.zip]]></model>
+      <transform>
+        <translation>
+          <x>-13.9674377441</x>
+          <y>38.7672576904</y>
+          <z>0.9515421987</z>
+        </translation>
+        <rotation type="eulerdeg">
+          <x>0.0</x>
+          <y>0.0</y>
+          <z>0.0</z>
+        </rotation>
+        <scale>
+          <x>0.4165395796</x>
+          <y>0.4165395796</y>
+          <z>0.4165395796</z>
+        </scale>
+      </transform>
+      <properties>
+        <coordinatesystemid>1</coordinatesystemid>
+      </properties>
+    </assets3d>
+    <viewparameters>
+      <visibility>
+        <liveview>false</liveview>
+      </visibility>
+    </viewparameters>
+  </object>
+</results>

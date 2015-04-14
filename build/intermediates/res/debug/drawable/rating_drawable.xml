@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+android:id/background"
+          android:drawable="@drawable/star_dis" />
+    <item android:id="@+android:id/secondaryProgress"
+          android:drawable="@drawable/star_dis" />
+    <item android:id="@+android:id/progress"
+          android:drawable="@drawable/star_act" />
+</layer-list><!-- From: file:/Users/RajeevMehta/Desktop/metaioSDK/_Android/ARtVision/metaioSDK/res/drawable/rating_drawable.xml --><!-- From: file:/Users/RajeevMehta/Desktop/metaioSDK/_Android/ARtVision/TemplateAREL/build/intermediates/exploded-aar/ARtVision/MetaioSDK/unspecified/res/drawable/rating_drawable.xml -->
